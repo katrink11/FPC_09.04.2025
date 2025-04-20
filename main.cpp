@@ -6,7 +6,7 @@
 
 const int WIDTH = 800;
 const int HEIGHT = 800;
-const int MAX_ITER = 1000;
+const int MAX_ITER = 100;
 
 int mandelbrot(const std::complex<double>& c) {
     std::complex<double> z = 0;
