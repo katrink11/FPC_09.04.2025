@@ -22,5 +22,9 @@
 
 
 ## Результат работы программы:
+![image](https://github.com/user-attachments/assets/e87cf1b7-c1cb-4897-a904-0a2151ca945d)
+
+
+
 
 
